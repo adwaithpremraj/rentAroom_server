@@ -1,27 +1,23 @@
-//import json server library
+// import json-server library
+const jsonServer=require('json-server')
 
-const jsonServer = require('json-server')
+// create server using create function
+const hostelServer=jsonServer.create()
 
-//create server using create function
+// create path for db.json file
+const router=jsonServer.router('db.json')
 
-const rentAroomServer = jsonServer.create()
+// create middleware to convert json into js
+const middleware=jsonServer.defaults()
 
-//create path for db.json file
-const router = jsonServer.router('db.json')
+// connect 
+hostelServer.use(middleware)
+hostelServer.use(router)
 
-//create middleware to convert json into js
-const middleware = jsonServer.defaults()
+// setup port
+const PORT=4001 || process.env.PORT
 
-//connecting
-
-rentAroomServer.use(middleware)
-rentAroomServer.use(router)
-
-//setup port process env.PORT beccoz if we host it wil clash sp if we use proccess.env.port it will give a port to store 
-const port = 4060 || process.env.PORT
-
-
-//run server
-rentAroomServer.listen(port,()=>{
-    console.log('rent a room running successfully');
+// run the server
+hostelServer.listen(PORT,()=>{
+    console.log('server is running successfully');
 })

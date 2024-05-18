@@ -1,99 +1,65 @@
 {
   "Users": [
     {
-      "id": "joyelcmathew@gmail.com",
-      "password": "joel8943",
-      "confirmpassword": "joel8943"
+      "id": "alan@gmail.com",
+      "createPassword": "alan123",
+      "confirmPassword": "alan123"
     },
     {
-      "id": "jomon@gmail.com",
-      "password": "123",
-      "confirmpassword": "123"
-    },
-    {
-      "id": "jomoinn@gmail.com",
-      "password": "123",
-      "confirmpassword": "123"
-    },
-    {
-      "id": "akhil@gmail.com",
-      "password": "1234",
-      "confirmpassword": "1234"
-    },
-    {
-      "id": "manu@gmail.com",
-      "password": "12345",
-      "confirmpassword": "12345"
-    },
-    {
-      "id": "vinu@gmail.com",
-      "password": "12",
-      "confirmpassword": "12"
-    },
-    {
-      "id": "tony@gmail.com",
-      "password": "tony123",
-      "confirmpassword": "tony123"
-    },
-    {
-      "id": "tonymon@gmail.com",
-      "password": "1234",
-      "confirmpassword": "1234"
-    },
-    {
-      "id": "kok@gmail.com",
-      "password": "vinu123",
-      "confirmpassword": "vinu123"
-    },
-    {
-      "id": "abi@gmail.com",
-      "password": "asa",
-      "confirmpassword": "asa"
-    },
-    {
-      "id": "akhi@gmail.com",
-      "password": "1234",
-      "confirmpassword": "1234"
-    },
-    {
-      "id": "joimon@gmail.com",
-      "password": "123456",
-      "confirmpassword": "123456"
-    },
-    {
-      "id": "00000",
-      "password": "0900",
-      "confirmpassword": "ooo"
-    },
-    {
-      "id": "dds",
-      "password": "dfsd",
-      "confirmpassword": "fsf"
-    },
-    {
-      "id": "jhjj",
-      "password": "kk",
-      "confirmpassword": "kk"
-    },
-    {
-      "id": "gyg",
-      "password": "hh",
-      "confirmpassword": "hh"
-    },
-    {
-      "id": "abinav@gmail.com",
-      "password": "8943",
-      "confirmpassword": "8943"
-    },
-    {
-      "id": "vgf",
-      "password": "hy",
-      "confirmpassword": "hh"
-    },
-    {
-      "id": "jo@gmail.com",
-      "password": "123",
-      "confirmpassword": "123"
+      "id": "ramu@gmail.com",
+      "createPassword": "123456",
+      "confirmPassword": "123456"
     }
-  ]
+  ],
+  "hostel": [
+    {
+      "id": "1",
+      "category": "Men's Hostel",
+      "hostelName": "Mary Matha Hostel",
+      "rent": "4000",
+      "location": "Kudanoor",
+      "imageUrl": "https://i.pinimg.com/564x/f9/fb/2e/f9fb2ecddb0f219e7be9f8a371e8ed9a.jpg"
+    },
+    {
+      "id": "2",
+      "category": "Women's Hostel",
+      "hostelName": "Olive Hostel",
+      "rent": "4800",
+      "location": "Kakkanad",
+      "imageUrl": "https://i.pinimg.com/564x/cf/aa/ed/cfaaeda860025c5def2b234a8b06a7cd.jpg"
+    },
+    {
+      "id": "3",
+      "category": "Men's & Women's Hostel",
+      "hostelName": "Woke Hostel",
+      "rent": "5000",
+      "location": "Kalamassery",
+      "imageUrl": "https://i.pinimg.com/564x/e6/32/04/e632045725896b1ec77ddde9d5314c38.jpg"
+    },
+    {
+      "id": "4",
+      "category": "Women's Hostel",
+      "hostelName": "Raybo Hostel",
+      "rent": "6000",
+      "location": "Edapally",
+      "imageUrl": "https://i.pinimg.com/564x/39/48/f5/3948f56b6e2e8d4831462a2325d5a23e.jpg"
+    },
+    {
+      "id": "5",
+      "category": "Women's Hostel",
+      "hostelName": "Rayie Hostel",
+      "rent": "5500",
+      "location": "Aluva",
+      "imageUrl": "https://i.pinimg.com/564x/9b/79/6d/9b796dd3fee46c3b72cc5ab37b71e4c5.jpg"
+    },
+    {
+      "id": "10",
+      "category": "Mens Hostel",
+      "hostelName": "idiminnl Hostel",
+      "rent": "10000",
+      "location": "SreeKaryam",
+      "imageUrl": "https://i.pinimg.com/564x/e6/32/04/e632045725896b1ec77ddde9d5314c38.jpg"
+    }
+  ],
+  "orders": []
 }
