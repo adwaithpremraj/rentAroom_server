@@ -38,7 +38,9 @@
       "hostelName": "Mary Matha Hostel",
       "rent": "4000",
       "location": "Kudanoor",
-      "imageUrl": "https://i.pinimg.com/564x/f9/fb/2e/f9fb2ecddb0f219e7be9f8a371e8ed9a.jpg"
+      "imageUrl": "https://i.pinimg.com/564x/f9/fb/2e/f9fb2ecddb0f219e7be9f8a371e8ed9a.jpg",
+      "imageUrl2":"https://i.pinimg.com/564x/2c/06/c2/2c06c232e61688cdcf47578f7ea2c105.jpg",
+      "imageUrl3":"https://i.pinimg.com/564x/95/bb/d8/95bbd83e2f13eba52b54e419e6a65e0f.jpg"
     },
     {
       "id": "2",
@@ -46,7 +48,9 @@
       "hostelName": "Olive Hostel",
       "rent": "4800",
       "location": "Kakkanad",
-      "imageUrl": "https://i.pinimg.com/564x/cf/aa/ed/cfaaeda860025c5def2b234a8b06a7cd.jpg"
+      "imageUrl": "https://i.pinimg.com/564x/cf/aa/ed/cfaaeda860025c5def2b234a8b06a7cd.jpg",
+      "imageUrl2":"https://i.pinimg.com/564x/17/05/a0/1705a00cdb4e276e07bc2faa3db20470.jpg",
+      "imageUrl3":"https://i.pinimg.com/564x/b0/c1/7a/b0c17a8484361be5998c0e6d0198ca61.jpg"
     },
     {
       "id": "3",
@@ -54,7 +58,9 @@
       "hostelName": "Woke Hostel",
       "rent": "5000",
       "location": "Kalamassery",
-      "imageUrl": "https://i.pinimg.com/564x/e6/32/04/e632045725896b1ec77ddde9d5314c38.jpg"
+      "imageUrl": "https://i.pinimg.com/564x/e6/32/04/e632045725896b1ec77ddde9d5314c38.jpg",
+      "imageUrl2":"https://i.pinimg.com/564x/c3/e3/53/c3e3530e1891ad7432830f46d7494a50.jpg",
+      "imageUrl3":"https://i.pinimg.com/564x/e7/13/f8/e713f82d977ca1754bc73db6d8e19975.jpg"
     },
     {
       "id": "4",
@@ -62,7 +68,9 @@
       "hostelName": "Raybo Hostel",
       "rent": "6000",
       "location": "Edapally",
-      "imageUrl": "https://i.pinimg.com/564x/39/48/f5/3948f56b6e2e8d4831462a2325d5a23e.jpg"
+      "imageUrl": "https://i.pinimg.com/564x/39/48/f5/3948f56b6e2e8d4831462a2325d5a23e.jpg",
+      "imageUrl2":"https://i.pinimg.com/564x/4c/25/dc/4c25dc5de89ce122f98319f6e044e8d4.jpg",
+      "imageUrl3":"https://i.pinimg.com/564x/9c/3d/b4/9c3db4ba004bc2a64f413ae2617228be.jpg"
     },
     {
       "id": "5",
@@ -70,23 +78,9 @@
       "hostelName": "Rayie Hostel",
       "rent": "5500",
       "location": "Aluva",
-      "imageUrl": "https://i.pinimg.com/564x/9b/79/6d/9b796dd3fee46c3b72cc5ab37b71e4c5.jpg"
-    },
-    {
-      "id": "10",
-      "category": "Mens Hostel",
-      "hostelName": "idiminnl Hostel",
-      "rent": "10000",
-      "location": "SreeKaryam",
-      "imageUrl": "https://i.pinimg.com/564x/e6/32/04/e632045725896b1ec77ddde9d5314c38.jpg"
-    },
-    {
-      "id": "7",
-      "category": "Paying Guest",
-      "hostelName": "Ponmani",
-      "rent": "10000",
-      "location": "Kannur",
-      "imageUrl": "https://i.pinimg.com/564x/39/48/f5/3948f56b6e2e8d4831462a2325d5a23e.jpg"
+      "imageUrl": "https://i.pinimg.com/564x/9b/79/6d/9b796dd3fee46c3b72cc5ab37b71e4c5.jpg",
+      "imageUrl2":"https://i.pinimg.com/564x/d8/02/21/d80221f1412462108143b0ff8f9b9d2e.jpg",
+      "imageUrl3":"https://i.pinimg.com/564x/0e/01/a8/0e01a8e7721f0723a08e35fc7d4b73ae.jpg"
     }
   ],
   "orders": []
