@@ -9,6 +9,26 @@
       "id": "ramu@gmail.com",
       "createPassword": "123456",
       "confirmPassword": "123456"
+    },
+    {
+      "id": "12345",
+      "createPassword": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "alan4@gmail.com",
+      "createPassword": "alan1234",
+      "confirmPassword": "alan1234"
+    },
+    {
+      "id": "1234",
+      "createPassword": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "11122",
+      "createPassword": "11122",
+      "confirmPassword": "11122"
     }
   ],
   "hostel": [
@@ -59,6 +79,14 @@
       "rent": "10000",
       "location": "SreeKaryam",
       "imageUrl": "https://i.pinimg.com/564x/e6/32/04/e632045725896b1ec77ddde9d5314c38.jpg"
+    },
+    {
+      "id": "7",
+      "category": "Paying Guest",
+      "hostelName": "Ponmani",
+      "rent": "10000",
+      "location": "Kannur",
+      "imageUrl": "https://i.pinimg.com/564x/39/48/f5/3948f56b6e2e8d4831462a2325d5a23e.jpg"
     }
   ],
   "orders": []
